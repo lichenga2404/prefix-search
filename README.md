@@ -1,1 +1,1 @@
-Prefix search using SQLite
+Prefix search using Tries and SQLite
