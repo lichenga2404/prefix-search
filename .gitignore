@@ -3,6 +3,7 @@
 *.iws
 
 # databases
+data/
 *.db
 
 # Maven
